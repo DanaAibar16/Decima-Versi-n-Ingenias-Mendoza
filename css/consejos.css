@@ -1,1 +1,24 @@
+/*ESTILOS PARA PAGINA CONSEJOS*/
+.consejos-1{
+    background-image: url(img/bano2.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+}
 
+.consejos-2{
+    background-image: url(img/lavarropa.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+}
+
+.consejos-3{
+    background-image: url(img/casa\ con\ manquera.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 48%;
+}
